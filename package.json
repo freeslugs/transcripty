@@ -1,6 +1,6 @@
 {
   "name": "transcripty",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Extract chat logs from Google Meet HTML files and convert them to text and markdown files",
   "main": "index.js",
   "type": "module",
@@ -31,12 +31,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/transcripty.git"
+    "url": "https://github.com/freeslugs/transcripty.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/transcripty/issues"
+    "url": "https://github.com/freeslugs/transcripty/issues"
   },
-  "homepage": "https://github.com/yourusername/transcripty#readme",
+  "homepage": "https://github.com/freeslugs/transcripty#readme",
   "dependencies": {
     "commander": "^14.0.0"
   },
